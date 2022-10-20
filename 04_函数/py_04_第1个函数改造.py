@@ -1,8 +1,10 @@
 name = "小明"
 
 # Python 解释器知道下方定义了一个函数
-def say_hello():
 
+
+def say_hello():
+    """打招呼"""
     print(" Hello 1")
     print(" Hello 2")
     print(" Hello 3")
