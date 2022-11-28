@@ -6,5 +6,6 @@ def sum_number(num):
         return
     # 自己调用自己
     sum_number(num - 1)
+    print("完成 %d " % num)
 
 sum_number(3)
