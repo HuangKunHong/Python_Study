@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: py-message
+Version: 1.0
+Summary: py's 发送和接收消息模块
+Home-page: www.py.com
+Author: py
+Author-email: py@python.com
+
+完整的发送和接收消息模块
